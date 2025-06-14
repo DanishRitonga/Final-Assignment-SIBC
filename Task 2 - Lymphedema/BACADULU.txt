@@ -1,0 +1,8 @@
+2 folder data: SIMULASI DAN EKSPERIMEN:  
+Setiap folder ada 3 folder di dalamnya: Objek 1 sampai 3
+Di dalam setiap folder ada 6 file:
+1. Dua file koordinat bentuk batas tubuh (Yang postfix nya REC = batas pakai BAEIT).
+2. Dua file impedansi: homogen dan objek 
+3. Dua file kode: postfixnya: BAEIT (pakai batas BAEIT) dan BS (pakai batas sebenarnya)
+
+NOTE: Setiap file kode punya array elpos masing masing (karena beda-beda). Aku pakai elpos yang ngehasilin posisi citra paling baik. (Diperoleh dari percobaan memutar posisi elektroda & datanya).
